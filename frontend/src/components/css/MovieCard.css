@@ -1,0 +1,9 @@
+.card 
+{
+    width: 18rem;
+}
+
+.movie-card {
+    margin-top: 5rem !important;
+    margin: auto;
+}
