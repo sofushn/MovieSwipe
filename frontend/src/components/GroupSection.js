@@ -13,9 +13,8 @@ function GroupSection(props) {
                 </div>
             </div>
             <div className='container-fluid group-section-container-1'>
-                <h6 className='group-section-header-2'>My groups</h6>
+                <h6 className='group-section-header-2'>MY GROUPS</h6>
                 <ul class="nav flex-column group-section-nav">
-                    <li className='nav-item'><input placeholder='Filter groups..' className="form-control mr-sm-2" type="search" placeholder="Filter groups" aria-label="Search" /></li>
                     <li class="nav-item"><a class="nav-link active" href="#">Group name 1</a></li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Group name 2</a>
@@ -27,6 +26,9 @@ function GroupSection(props) {
                         <a class="nav-link" href="#">Group name 4</a>
                     </li>
                 </ul>
+            </div>
+            <div className='fixed-bottom'>
+                Username <a>Logout</a>
             </div>
         </div>
     );

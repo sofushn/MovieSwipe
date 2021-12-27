@@ -14,7 +14,8 @@
 }
 
 .group-section-header-2 {
-    color: #FFF;
+    font-size: 13px;
+    color: rgb(125, 123, 123);
     font-weight: bold;
     margin-top: 1rem;
     padding-top: 1rem;
@@ -27,22 +28,20 @@
 }
 
 .nav-link {
-    color: #FFF;
+    font-size: 16px;
+    color: rgb(225, 220, 220);
 }
 
-.nav-link:active {
-    color: #FFF;
-    background-color: #FFF;
-}
-
-.nav-link-hover-color {
+.nav-link:hover{
     color: #FFF !important;
-}
-
-a {
-    color: #FFF !important;
+    
+    font-weight: bold;
 }
 
 a:hover {
     color: lightgray !important;
+}
+
+a:active {
+    font-weight: bold;
 }
