@@ -1,10 +1,11 @@
-.app {
+.App {
     padding: 0;
+    max-width: none !important;
 }
 .row {
     margin: 0 !important;
-    margin-top: 3rem !important;
 }
 .group-section-col {
+    padding: 0;
     background-color: #D3D3D3;
 }

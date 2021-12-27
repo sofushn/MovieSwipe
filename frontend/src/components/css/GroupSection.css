@@ -1,15 +1,16 @@
 .group-section-header {
     font-weight: bold;
-    margin-top: 1rem;
+    margin-top: 1.5rem;
     text-align: center;
 }
 
 .group-section-nav {
-    margin-top: 1rem;
+    margin-top: 3rem;
 }
 
 .nav-link {
     color: black;
+    background-color: #e0e0e0;
     text-decoration: none !important;
 }
 

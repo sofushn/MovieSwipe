@@ -1,6 +1,7 @@
 import './App.css';
 import GroupSection from './components/GroupSection';
 import MovieCard from './components/MovieCard.js';
+import MenuSelection from './components/MenuSelection.js';
 
 function App() {
   return (
@@ -16,6 +17,10 @@ function App() {
             title="Movie title"
             year="Movie year release"
           />
+        </div>
+
+        <div className='col-2 group-section-col'>
+          <MenuSelection />
         </div>
       </div>
     </div >

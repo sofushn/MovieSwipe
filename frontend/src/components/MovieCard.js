@@ -4,7 +4,7 @@ import './css/MovieCard.css';
 function MovieCard(props) {
     return (
         <div className='container'>
-            <div className='row justify-content-md-center'>
+            <div className='row justify-content-md-center movie-card-rows'>
                 <div className="card movie-card">
                     <img className="card-img-top" src={"https://" + props.imgSource} alt="Image failed loading.." />
                     <div className="card-body">
@@ -13,7 +13,7 @@ function MovieCard(props) {
                     </div>
                 </div>
             </div>
-            <div className='row'>
+            <div className='row movie-card-rows'>
                 <div className='col'>
                     <div className='row justify-content-md-center'>
                         <button type="button" class="btn btn-danger">Dislike</button>

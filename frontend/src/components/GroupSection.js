@@ -4,7 +4,8 @@ import './css/GroupSection.css';
 function GroupSection(props) {
     return (
         <div>
-            <header className='group-section-header'>My SwipeNight groups</header>
+            <h1 className='group-section-header'>SwipeNight</h1>
+            <h3 className='group-section-header'>My groups</h3>
             <ul class="nav flex-column group-section-nav">
                 <li class="nav-item"><a class="nav-link active" href="#">Group name 1</a></li>
                 <li class="nav-item">
