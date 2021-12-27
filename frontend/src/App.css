@@ -1,0 +1,10 @@
+.app {
+    padding: 0;
+}
+.row {
+    margin: 0 !important;
+    margin-top: 3rem !important;
+}
+.group-section-col {
+    background-color: #D3D3D3;
+}

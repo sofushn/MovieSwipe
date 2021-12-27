@@ -5,5 +5,9 @@
 
 .movie-card {
     margin-top: 5rem !important;
-    margin: auto;
+}
+
+
+.btn {
+    max-width: 8rem !important;
 }

@@ -1,0 +1,19 @@
+.group-section-header {
+    font-weight: bold;
+    margin-top: 1rem;
+    text-align: center;
+}
+
+.group-section-nav {
+    margin-top: 1rem;
+}
+
+.nav-link {
+    color: black;
+    text-decoration: none !important;
+}
+
+.nav-link-hover-color {
+    color: black !important;
+    text-decoration: none !important;
+}
