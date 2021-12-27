@@ -1,0 +1,13 @@
+.card 
+{
+    width: 18rem;
+}
+
+.movie-card {
+    margin-top: 5rem !important;
+}
+
+
+.btn {
+    max-width: 8rem !important;
+}
