@@ -5,3 +5,7 @@ services:
     build: api/MovieSwipe.API/
     ports:
       - 8080:80
+  frontend:
+    build: frontend
+    ports:
+      - 80:80
