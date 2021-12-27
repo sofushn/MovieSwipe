@@ -4,12 +4,15 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
 	<ImplicitUsings>true</ImplicitUsings>
+	<UserSecretsId>46cc6834-975e-4064-aaa9-e0272f1c2c09</UserSecretsId>
+	<DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="HotChocolate.AspNetCore" Version="12.5.0-preview.4" />
     <PackageReference Include="HotChocolate.AspNetCore.Authorization" Version="12.5.0-preview.4" />
     <PackageReference Include="HotChocolate.Data" Version="12.5.0-preview.4" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.14.0" />
   </ItemGroup>
 
 </Project>
