@@ -15,3 +15,6 @@ MovieSwipe is a unique app that takes inspiration from dating apps, but instead 
 * Back-end: C#
 * Data: TBD
 
+## Stretch goals
+* Group chat
+* Group administrator
