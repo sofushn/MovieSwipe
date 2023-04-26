@@ -16,5 +16,6 @@ MovieSwipe is a unique app that takes inspiration from dating apps, but instead 
 * Data: TBD
 
 ## Stretch goals
+* Matched movies page (with group)
 * Group chat
 * Group administrator
